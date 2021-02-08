@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -25,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1oBpX7YKmQRA6a0QXwcPjwNFRjU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WorkSpace/esgcc-contract/esgcc-contract-proxy/target/esgcc-contract-proxy-1.0.0-SNAPSHOT-dev-yq.tar.gz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -64,11 +68,23 @@
       <option name="presentableId" value="Default" />
       <updated>1612769877575</updated>
       <workItem from="1612769879236" duration="1544000" />
-      <workItem from="1612775510222" duration="356000" />
+      <workItem from="1612775510222" duration="726000" />
     </task>
+    <task id="LOCAL-00001" summary="创建新项目">
+      <created>1612776204311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612776204311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建新项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建新项目" />
   </component>
 </project>
